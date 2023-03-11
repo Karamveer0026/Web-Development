@@ -1,0 +1,17 @@
+#root, html, body {
+    height: 100vh;
+}
+
+body {
+    margin: 0;
+    background-color: whitesmoke;
+    background-image: url('https://img.freepik.com/free-vector/gradient-network-connection-background_23-2148865392.jpg?size=626&ext=jpg');
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
